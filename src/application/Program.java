@@ -7,6 +7,7 @@ public class Program {
 		System.out.println("Testando o Github");
 		System.out.println("Testando o Github novamente.");
 		System.out.println("Testando o Github e elimininando espaços");
+		System.out.println("tchau!");
 	}
 
 }
